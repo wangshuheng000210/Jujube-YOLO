@@ -70,7 +70,7 @@ To install and use **Jujube-YOLO**, you'll need Python 3.8+ and the required dep
 
  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/jujube-yolo.git
+    git clone https://github.com/wangshuheng000210/Jujube-YOLO.git
     cd jujube-yolo
   
 
